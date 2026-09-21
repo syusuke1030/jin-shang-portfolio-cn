@@ -54,25 +54,25 @@ const caseData = {
   copy: [
     { category: '策划方案', title: '新品上市传播策划案', intro: '',
       body: '',
-      link: 'file:///Users/shangjin/Codex%20Workplace/portfolio/references/%E5%95%86%E4%B8%9A%E6%96%87%E6%A1%88/Launch%20Plan-Beauty%20New%20Product-Dibi.pdf' },
+      link: 'workplace/%E5%95%86%E4%B8%9A%E6%96%87%E6%A1%88/Launch%20Plan-Beauty%20New%20Product-Dibi.pdf' },
     { category: '品牌故事', title: 'HONMA品牌故事', intro: '',
       body: '',
-      link: 'file:///Users/shangjin/Codex%20Workplace/portfolio/references/%E5%95%86%E4%B8%9A%E6%96%87%E6%A1%88/Brand%20Story-HONMA.pdf' },
+      link: 'workplace/%E5%95%86%E4%B8%9A%E6%96%87%E6%A1%88/Brand%20Story-HONMA.pdf' },
     { category: '品牌介绍', title: '上海来福士广场项目介绍', intro: '',
       body: '',
-      link: 'file:///Users/shangjin/Codex%20Workplace/portfolio/references/%E5%95%86%E4%B8%9A%E6%96%87%E6%A1%88/Project%20Intro-Raffles%20City.pdf' },
+      link: 'workplace/%E5%95%86%E4%B8%9A%E6%96%87%E6%A1%88/Project%20Intro-Raffles%20City.pdf' },
     { category: '活动主持词', title: '大白兔中秋活动主持词', intro: '',
       body: '',
-      link: 'file:///Users/shangjin/Codex%20Workplace/portfolio/references/%E5%95%86%E4%B8%9A%E6%96%87%E6%A1%88/Host%20Script-Mid-Autumn%20Festival%20Event-White%20Rabbit.pdf' },
+      link: 'workplace/%E5%95%86%E4%B8%9A%E6%96%87%E6%A1%88/Host%20Script-Mid-Autumn%20Festival%20Event-White%20Rabbit.pdf' },
     { category: '新闻稿', title: '羽西产品上市新闻稿', intro: '',
       body: '',
-      link: 'file:///Users/shangjin/Codex%20Workplace/portfolio/references/%E5%95%86%E4%B8%9A%E6%96%87%E6%A1%88/Press%20Release-Produc%20lunch-YUESAI.pdf' },
+      link: 'workplace/%E5%95%86%E4%B8%9A%E6%96%87%E6%A1%88/Press%20Release-Produc%20lunch-YUESAI.pdf' },
     { category: '新闻稿', title: 'OSIM傲胜AWE展会新闻稿', intro: '',
       body: '',
-      link: 'file:///Users/shangjin/Codex%20Workplace/portfolio/references/%E5%95%86%E4%B8%9A%E6%96%87%E6%A1%88/Press%20Release-AWE-OSIM.pdf' },
+      link: 'workplace/%E5%95%86%E4%B8%9A%E6%96%87%E6%A1%88/Press%20Release-AWE-OSIM.pdf' },
     { category: '新闻稿', title: 'LuOne凯德晶萃广场活动新闻稿', intro: '',
       body: '',
-      link: 'file:///Users/shangjin/Codex%20Workplace/portfolio/references/%E5%95%86%E4%B8%9A%E6%96%87%E6%A1%88/Press%20Release-LuOne.pdf' },
+      link: 'workplace/%E5%95%86%E4%B8%9A%E6%96%87%E6%A1%88/Press%20Release-LuOne.pdf' },
     { category: '英文内容', title: '英文Blog - Zenless Zone Zero', intro: '',
       body: '',
       link: 'https://blog.playstation.com/2025/12/19/zenless-zone-zero-version-2-5-introduces-dual-form-void-hunter-on-december-30/' },
@@ -81,7 +81,7 @@ const caseData = {
       link: 'https://www.gamespress.com/en-US/HoYoverse-Unveils-Its-Brand-New-Cosmic-Life-Sim-Petit-Planet' },
     { category: '英文内容', title: '英文产品测评 - Infinity Nikki', intro: '',
       body: '',
-      link: 'file:///Users/shangjin/Codex%20Workplace/portfolio/references/%E5%95%86%E4%B8%9A%E6%96%87%E6%A1%88/Product%20Review-Infinity%20Nikki.pdf' }
+      link: 'workplace/%E5%95%86%E4%B8%9A%E6%96%87%E6%A1%88/Product%20Review-Infinity%20Nikki.pdf' }
   ]
 };
 
